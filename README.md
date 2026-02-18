@@ -76,6 +76,8 @@ Expected Shortfall is the mean loss beyond the VaR threshold:
 
 ES95 = mean(losses ≥ VaR95)
 
+<img width="604" height="455" alt="image" src="https://github.com/user-attachments/assets/606d54f2-b06c-44e3-912e-bce4baca4c08" />
+
 ---
 
 ## Stress Testing
