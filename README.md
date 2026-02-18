@@ -104,13 +104,9 @@ After execution, the simulator produces:
 
 This project reflects how banks estimate portfolio credit risk using scenario-based simulation, and demonstrates
 quantitative risk analytics skills relevant to:
-
 - Credit Risk
-
 - Market Risk (VaR modelling)
-
 - Risk Reporting
-
 - Financial Analytics
 ---
 ## How to Run
@@ -118,7 +114,4 @@ quantitative risk analytics skills relevant to:
 ### Install dependencies
 ```bash
 pip install -r requirements.txt
-
-
-
 
