@@ -94,15 +94,6 @@ After execution, the simulator produces:
 - `outputs/loss_distribution.png` → histogram of simulated loss distribution
 
 ---
-
-## How to Run
-
-### Install dependencies
-```bash
-pip install -r requirements.txt
-
----
-
 ## Technologies Used
 - Python
 - NumPy
@@ -121,4 +112,13 @@ quantitative risk analytics skills relevant to:
 - Risk Reporting
 
 - Financial Analytics
+---
+## How to Run
+
+### Install dependencies
+```bash
+pip install -r requirements.txt
+
+
+
 
